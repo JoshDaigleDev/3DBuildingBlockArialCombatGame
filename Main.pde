@@ -1,16 +1,3 @@
-/*
-
-INPUTS:
-p - Activate performance mode. This is useful if the textures are causing too much lag. It will reduce the amount of rendered background tiles and explosion projectiles spawned. 
-
-ENTER - This respawns the player, destroys all enemies, and resets the difficulty level. Sometimes enemies may shoot you as they die and you respawn, if that happens just press enter again. 
-
-FUN STUFF:
-Theme - Textures make the world look made of lego
-Background - Dynamic terrain generation using 2D perlin noise. Turned out way better than I thought it would!
-More 3D - Player and enemy modeled and textured in 3D.
-*/
-
 final int QUADRANT_SIZE = 5;
 
 World world;
