@@ -15,4 +15,4 @@ p - Activate performance mode. This is useful if the textures are causing too mu
 
 ## PREVIEW
 
-![Game Example](https://github.com/JoshDaigleDev/IDKTHEURLYET)
+![Game Example](https://github.com/JoshDaigleDev/3DBuildingBlockArialCombatGame/blob/main/data/DemoGif.gif)
